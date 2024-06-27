@@ -1,0 +1,7 @@
+{"parameters":{
+			"DIGITALNAME":{
+				"value":["DIN001","DIN002","DIN003","DIN004","DIN005","DIN006","DIN007","DIN008"]},
+			"SAMPLERATE":{
+				"value": 125000000}
+			}
+}
