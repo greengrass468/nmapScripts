@@ -1,0 +1,47 @@
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+body {
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+}
+
+#placeholder .button {
+		position: absolute;
+		cursor: pointer;
+}
+
+#placeholder div.button {
+		font-size: smaller;
+		color: #999;
+		background-color: #eee;
+		padding: 2px;
+}
+.message {
+		padding-left: 50px;
+		font-size: smaller;
+}
+.trace_label{
+		text-align: center;
+		width: 100px;
+		left: 0px;
+}
+.legendLabel{
+		display: inline-block;
+}
+.legendColorBox {
+		float:left;
+       width: 14px;
+}
+.legend{
+		display: inline-block;
+		overflow: hidden;
+}	
+.tickLabel{
+
+    color: white;
+ }
